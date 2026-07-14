@@ -24,9 +24,8 @@ cp .env.example .env.production
 Edit `.env.production`:
 
 ```env
-NEXT_PUBLIC_DERIV_APP_ID=your_app_id_here
-NEXT_PUBLIC_DERIV_REDIRECT_URI=https://your-registered-redirect-uri.com
-NEXT_PUBLIC_DERIV_APP_NAME=your_app_name_here
+NEXT_PUBLIC_DERIV_APP_ID=82133_PUBLIC_DERIV_REDIRECT_URI=https://track.deriv.com/_eX8N2CWp0Zr1hit6RV3zsGNd7ZgqdRLk/1/
+_PUBLIC_DERIV_APP_NAME=your_app_name_hereE=your_app_name_here
 NEXT_PUBLIC_DERIV_REFERRAL_LINK=your_referral_link_here
 NEXT_PUBLIC_DERIV_OAUTH_SCOPES=trade,account_manage
 NEXT_PUBLIC_DERIV_ENV=production
